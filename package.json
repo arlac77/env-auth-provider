@@ -1,0 +1,5 @@
+{
+  "name": "env-auth-provider",
+  "description": "Provide credentials from environment variables",
+  "module": "src/env-auth-provider.mjs"
+}
