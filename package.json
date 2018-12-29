@@ -8,7 +8,6 @@
   "module": "src/env-auth-provider.mjs",
   "description": "Provide credentials from environment variables",
   "keywords": [
-    "npm-package-template",
     "auth-provider"
   ],
   "contributors": [
