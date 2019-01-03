@@ -4,7 +4,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "main": "dist/env-auth-provider.js",
+  "main": "src/env-auth-provider.mjs",
   "module": "src/env-auth-provider.mjs",
   "description": "Provide credentials from environment variables",
   "keywords": [
