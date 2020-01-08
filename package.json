@@ -24,7 +24,8 @@
     "docs": "documentation readme src/env-auth-provider.mjs --section=API",
     "lint": "documentation lint src/env-auth-provider.mjs",
     "posttest": "markdown-doctest && npm run prepare",
-    "test": "ava"
+    "test": "ava",
+    "prepare": "rollup -c"
   },
   "devDependencies": {
     "ava": "^2.4.0",
