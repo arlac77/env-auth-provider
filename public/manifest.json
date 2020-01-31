@@ -1,0 +1,10 @@
+{
+  "name": "env-auth-provider",
+  "description": "Provide credentials from environment variables",
+  "icons": [
+    {
+      "src": "facicon.ico",
+      "sizes": "16x16"
+    }
+  ]
+}
