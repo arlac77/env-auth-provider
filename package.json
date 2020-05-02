@@ -8,7 +8,8 @@
   "type": "module",
   "main": "src/env-auth-provider.mjs",
   "exports": {
-    ".": "./src/env-auth-provider.mjs"
+    ".": "./src/env-auth-provider.mjs",
+    "./": "./"
   },
   "description": "Provide credentials from environment variables",
   "keywords": [
