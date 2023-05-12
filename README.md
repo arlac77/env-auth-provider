@@ -1,6 +1,6 @@
 [![npm](https://img.shields.io/npm/v/env-auth-provider.svg)](https://www.npmjs.com/package/env-auth-provider)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-[![Open Bundle](https://bundlejs.com/badge-light.svg)](https://bundlejs.com/?q=env-auth-provider)
+[![bundlejs](https://deno.bundlejs.com/?q=env-auth-provider\&badge=detailed)](https://bundlejs.com/?q=env-auth-provider)
 [![downloads](http://img.shields.io/npm/dm/env-auth-provider.svg?style=flat-square)](https://npmjs.org/package/env-auth-provider)
 [![GitHub Issues](https://img.shields.io/github/issues/arlac77/env-auth-provider.svg?style=flat-square)](https://github.com/arlac77/env-auth-provider/issues)
 [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Farlac77%2Fenv-auth-provider%2Fbadge\&style=flat)](https://actions-badge.atrox.dev/arlac77/env-auth-provider/goto)
