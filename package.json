@@ -38,7 +38,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/arlac77/env-auth-provider"
+    "url": "git+https://github.com/arlac77/env-auth-provider.git"
   },
   "bugs": {
     "url": "https://github.com/arlac77/env-auth-provider/issues"
